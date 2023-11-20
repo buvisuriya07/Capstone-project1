@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "https://pranavmappoli.github.io/supportdesk",
+  "homepage": "",
   "private": true,
   "proxy": "https://capstone-project-backend7671.onrender.com",
   "dependencies": {
